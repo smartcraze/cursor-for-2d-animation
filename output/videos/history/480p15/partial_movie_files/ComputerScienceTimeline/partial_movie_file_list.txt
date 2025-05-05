@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/suraj/project/manim-cursor/output/videos/history/480p15/partial_movie_files/ComputerScienceTimeline/1185818338_2923244912_223132457.mp4'
+file 'file:/home/suraj/project/manim-cursor/output/videos/history/480p15/partial_movie_files/ComputerScienceTimeline/624642324_3130638166_272894609.mp4'
+file 'file:/home/suraj/project/manim-cursor/output/videos/history/480p15/partial_movie_files/ComputerScienceTimeline/624642324_3365565760_2227708116.mp4'
+file 'file:/home/suraj/project/manim-cursor/output/videos/history/480p15/partial_movie_files/ComputerScienceTimeline/624642324_603089832_1414935023.mp4'
+file 'file:/home/suraj/project/manim-cursor/output/videos/history/480p15/partial_movie_files/ComputerScienceTimeline/624642324_2844360058_1521195365.mp4'
+file 'file:/home/suraj/project/manim-cursor/output/videos/history/480p15/partial_movie_files/ComputerScienceTimeline/624642324_3868899179_610607812.mp4'
+file 'file:/home/suraj/project/manim-cursor/output/videos/history/480p15/partial_movie_files/ComputerScienceTimeline/624642324_2552855209_488978832.mp4'
+file 'file:/home/suraj/project/manim-cursor/output/videos/history/480p15/partial_movie_files/ComputerScienceTimeline/624642324_3120303077_554207670.mp4'
+file 'file:/home/suraj/project/manim-cursor/output/videos/history/480p15/partial_movie_files/ComputerScienceTimeline/624642324_4217992463_3278671325.mp4'
